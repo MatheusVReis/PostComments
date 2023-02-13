@@ -1,0 +1,15 @@
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\bin\Debug\net6.0\Course.exe
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\bin\Debug\net6.0\Course.deps.json
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\bin\Debug\net6.0\Course.dll
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\bin\Debug\net6.0\Course.pdb
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.dll
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\refint\Course.dll
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.pdb
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+F:\Desenvolvimento\Udemy\C#\Seção 9-Enumerações e composição\Aula 131-ExercicioResolvido2\Course\obj\Debug\net6.0\ref\Course.dll
